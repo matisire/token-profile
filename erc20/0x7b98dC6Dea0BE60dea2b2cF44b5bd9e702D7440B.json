@@ -2,10 +2,10 @@
     "symbol": "ROT",
     "address": "0x7b98dC6Dea0BE60dea2b2cF44b5bd9e702D7440B",
     "overview": {
-        "en": "ROT is the digital rights and interests token issued by Bitrou exchange based on the ERC-20 of Ethereum and serves as an important asset rights and interests token in ROT ecological community. ROT is issued in fixed amounts of 10 billion yuan and will never be issued in new ones.",
-        "zh": "Bitrou Token是bitrou（以下简称ROT）生态社区内发行的数字资产权益通证，生态系统包括加密数字资产交换以及智能数字钱包支付等体系，致力实现一个以加密数字资产交换和智能钱包支付等多样化为一体的智能加密生态系统。"
+        "en": "Bitrou is the world's first decentralized comprehensive data service platform targeting DeFi, including DeFi data query, tracking, DeFi platform voting rating, DeFi currency prediction rating, scam anti-counterfeiting and other services, and will introduce decentralized transaction insurance services , To become a comprehensive data service platform necessary for major DeFi application platforms in the future.",
+        "zh": "Bitrou是全球首家以DeFi为对象的去中心化综合数据服务平台，包含DeFi数据查询、追踪、DeFi平台投票评级、DeFi币种预言评级、骗局打假等服务，同时将引入去中心化交易保险服务，成为未来各大DeFi应用平台所必需的综合数据服务平台。"
     },
-    "email": "services@bitrou.com",
+    "email": "contact@bitrou.org",
     "website": "https://bitrou.org/",
     "whitepaper": "https://bitrou.org/docs/rot-en-whitepaper.pdf",
     "state": "NORMAL",
@@ -16,11 +16,9 @@
         "BTC": "0.00000115 BTC"
     },
     "links": {
-        "twitter": "https://twitter.com/bitrou",
-        "telegram": "https://t.me/bitrou_Official_cn",
-        "github": "https://github.com/bitrouOffice",
-        "facebook": "https://www.facebook.com/bitrou",
-        "reddit": "https://www.reddit.com/r/your-bitrou-project/",
-        "medium": "https://medium.com/bitrou"
+        "twitter": "https://twitter.com/bitrou_defi",
+        "telegram": "https://t.me/bitrou_defi",
+        "telegram": "https://t.me/bitrou_defiofficial",
+        "medium": "https://medium.com/@bitrou_defi"
     }
 }
